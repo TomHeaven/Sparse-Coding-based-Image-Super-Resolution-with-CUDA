@@ -10,7 +10,7 @@ start = 1;
 % Enable cpu version algorithms. However, this process will take a few hours.
 % You can set this option to false to evaluate the CUDA version algorithm
 % only.
-enableSP = true;
+enableSP = false;
 
 % init GPU
 gpuDevice(1);
@@ -42,7 +42,7 @@ for i=start:len
         results{i}.cuda = res.cuda;
     end
     save('compareResults.mat', 'results');
-end;
+end
 
 analyze;
 
