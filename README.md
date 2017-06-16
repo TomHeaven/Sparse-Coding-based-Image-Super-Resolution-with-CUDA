@@ -1,4 +1,4 @@
-# Sparse Coding based Image Super-resolution with CUDA
+# Sparse-Coding-based-Image-Super-Resolution-with-CUDA
 
 By Hanlin Tan, NUDT
 
@@ -65,7 +65,11 @@ If you use the code provided by the project, please cite our paper:
 ```
 @inproceedings{tan2017lasso,
   title={LASSO Approximation and Application to Image Super-resolution with CUDA Acceleration},
+<<<<<<< HEAD:REAMDE.md
   author={Tan, Halin and Zeng, Xiangrong and Lai, Shiming and Liu, Yu and Zhang, Maojun},
+=======
+  author={Halin, Tan and Huaxin, Xiao and Yu, Liu and Maojun, Zhang and Bin, Wang},
+>>>>>>> refs/remotes/origin/master:README.md
   booktitle={Image, Vision and Computing (ICIVC), International Conference on},
   year={2017},
   organization={IEEE}
