@@ -64,13 +64,10 @@ If you use the code provided by the project, please cite our paper:
 
 ```
 @inproceedings{tan2017lasso,
-  title={LASSO Approximation and Application to Image Super-resolution with CUDA Acceleration},
-<<<<<<< HEAD:REAMDE.md
-  author={Tan, Halin and Zeng, Xiangrong and Lai, Shiming and Liu, Yu and Zhang, Maojun},
-=======
-  author={Halin, Tan and Huaxin, Xiao and Yu, Liu and Maojun, Zhang and Bin, Wang},
->>>>>>> refs/remotes/origin/master:README.md
-  booktitle={Image, Vision and Computing (ICIVC), International Conference on},
+  title={LASSO approximation and application to image super-resolution with CUDA acceleration},
+  author={Tan, Hanlin and Xiao, Huaxin and Liu, Yu and Zhang, Maojun and Wang, Bin},
+  booktitle={Image, Vision and Computing (ICIVC), 2017 2nd International Conference on},
+  pages={483--488},
   year={2017},
   organization={IEEE}
 }
